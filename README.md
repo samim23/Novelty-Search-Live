@@ -1,5 +1,5 @@
 # Novelty-Search-Live
-Novelty Search Live is a experimental open-source tool that helps musicians find musical inspiration in Ableton Live. It uses a evolutionary algorithm to continuously evolve new audio-clip and synth-parameter combinations, guided exclusively by Novelty Search. Finally, it takes the countless new musical ideas it has discovered, and generates a map with t-SNE which is interactively browsable.
+Novelty Search Live is a experimental open-source tool that helps musicians find musical inspiration in Ableton Live. It uses a evolutionary algorithm to continuously evolve new audio-clip and synth-parameter combinations, guided exclusively by Novelty Search. Finally, it takes the countless new musical ideas it has discovered, and generates a map with t-SNE which is interactively browsable. Read more: https://medium.com/@samim/musical-novelty-search-2177c2a249cc
 
 ## Usage
 After everything is setup and Ableton Live is open, run **python noveltysearchlive.py** from your console to start.
